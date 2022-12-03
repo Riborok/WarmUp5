@@ -45,7 +45,7 @@ Var
 
 Begin
 
-  Writeln('Enter number system (maximum number system is ',MaxNS,', minimal is 2). The program will calculate their sum.');
+  Writeln('Enter number system (maximum number system is ',MaxNS,', minimal is 2). The program will calculate their residual.');
 
   //Cycle with postcondition for entering correct data.
   Repeat
