@@ -1,7 +1,7 @@
 # WarmUp №5. Long arithmetic (residual)
 ---
 ### Task:
-![The task](https://i.imgur.com/D1uVXYQ.png)
+![The task](https://i.imgur.com/NuAldiZ.png)
 
 >The program calculates the residual of the numbers.
 
